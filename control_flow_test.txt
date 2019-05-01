@@ -1,0 +1,14 @@
+start = " "
+multiplynum = 11
+protectedisbn = " "
+while start.lower() != "n":
+print("Welcome to the isbn number protector!")
+start = input ("Would you like to protect your isbn number? (y/n) ")
+if start == "y":
+    isbn  = input("Please input your 10 digit isbn number. ")
+    if len (isbn) != 10:
+        print("I am sorry but you need to enter a 10 digit isbn.")
+    if ch in isbn:
+    asdf
+    if
+    
